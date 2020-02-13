@@ -18,15 +18,16 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ho
-
 Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
 I am a group manager bot maintained by  [this person](tg://user?id={}).
 
-Please Join This Channel - @GiveAways_24hrs & Discuss Group bit.ly/giveaways24hrsdiscuss
+Please join This Channel - @GiveAways_24hrs & My Support Group bit.ly/giveaways24hrsdiscuss.
+
 
 For more commands click /help...
+
+**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
@@ -50,7 +51,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/xditya) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-Please PM him to pay him; [PM](t.me/xditya)"""
+PM him to pay him; [PM](t.me/xditya)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
