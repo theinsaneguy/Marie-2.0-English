@@ -18,18 +18,15 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+ho
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+I am a group manager bot maintained by  [this person](tg://user?id={}).
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+Please Join This Channel - @GiveAways_24hrs & Discuss Group bit.ly/giveaways24hrsdiscuss
 
 For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
@@ -50,10 +47,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/xditya) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+Please PM him to pay him; [PM](t.me/xditya)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
