@@ -22,12 +22,11 @@ Hello {}, my name is {}! if you have any questions about how to use me please gi
 
 I am a group manager bot maintained by  [this person](tg://user?id={}).
 
-Please join This Channel - @GiveAways_24hrs & My Support Group bit.ly/giveaways24hrsdiscuss.
+Please join This Channel - @GiveAways_24hrs .
 
 
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
