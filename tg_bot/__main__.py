@@ -22,7 +22,7 @@ Hello {}, my name is {}! if you have any questions about how to use me please se
 
 I am a group manager bot maintained by  [this person](tg://user?id={}).
 
-Please Join This Channel - @GiveAways_24hrs & Discuss Group - @GiveAways24hrsDiscuss .
+Please Join [This Channel](t.me/GiveAways_24hrs) & [Discuss Group](t.me/GiveAways24hrsDiscuss) .
 
 
 For more commands click /help..."""
